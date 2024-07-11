@@ -1,2 +1,2 @@
 # Spotify-Data-Analysis
-Utilized Python and the Spotify Web API to visualize and compare user-listening data between other students.
+Utilized Python and the Spotify Web API to visualize user-listening data and compare between other students.
